@@ -3,3 +3,10 @@
     "default": "vantacompanion"
   }
 }
+
+firebase use staging
+# ... deploys go to staging
+firebase use prod
+# ... deplo
+
+
