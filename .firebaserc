@@ -1,12 +1,5 @@
 {
   "projects": {
-    "default": "vantacompanion"
+    "default": "test-project"
   }
 }
-
-firebase use staging
-# ... deploys go to staging
-firebase use prod
-# ... deplo
-
-

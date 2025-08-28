@@ -25,7 +25,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-       Built by Node 002 Dominion Core
+              Winter is coming!
       </p>
     </>
   )
