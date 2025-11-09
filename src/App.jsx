@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(002)
 
   return (
     <>
@@ -16,8 +16,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>The Seed has been planted!</h1>
-      <div className="card">        <button onClick={() => setCount((count) => count + 2)}>
+      <h1>The work has begun.  Request your support.</h1>
+      <div className="card">        <button onClick={() => setCount((count) => count + 0)}>
           count is {count}
         </button>
         <p>
@@ -25,7 +25,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-              Winter is coming!
+              VantaCore is coming soon!
       </p>
     </>
   )
